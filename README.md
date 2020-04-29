@@ -1,4 +1,4 @@
-# Handwritten Symbol Analyser
+# Handwritten Symbol Analyzer
 This program takes any handwritten symbols from the set it has been trained on and outputs the probability of its predictions on a graph. The training data used in the example is from the Sklearn handwritten symbols dataset. You can replace the training and testing data in the program.
 
 ## Instructions
